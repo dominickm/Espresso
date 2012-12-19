@@ -1,0 +1,1 @@
+Espresso is a cross platform application framework based on C++ 11. It is intended to allow the development of cross platform applicaitons for Linux, Mac, and Windows. 
